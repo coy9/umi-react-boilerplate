@@ -1,0 +1,1 @@
+export const host = process.env.ENV === 'dev' ? 'https://www.baidu.com' : 'https://www.alibaba.com';
